@@ -79,7 +79,8 @@
 /* Only lines effect */
 .particletext.lines > .particle {
     position: absolute;
-    background-color: rgba(244, 67, 54, 0.5);
+    background-color: rgb(0, 53, 255, 0.06);
+);
     animation: lines 3s linear infinite;
 }
 
